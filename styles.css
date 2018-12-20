@@ -1,0 +1,35 @@
+
+.cell {
+  display: table-cell;
+  border: solid black 1px;
+}
+
+#divGrid {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  display: table;
+  display: inline-block;
+  border: solid black 5px;
+}
+
+#container {
+  margin: auto;
+  width: 510px;
+  height: 510px;
+
+}
+
+#buttonContainer {
+  text-align: center;
+  margin: 25px 0 25px 0;
+}
+
+.lineBreaks {
+  padding: 10.5px 20px 10.5px 20px;
+  border: solid black 1px;
+  width: auto;
+  width: auto;
+  height: auto;
+  display: table-row;
+}
